@@ -1,0 +1,23 @@
+{
+  "name": "wdbook",
+  "version": "1.0.0",
+  "description": "自动化部署测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mulberry-Leaf/wdbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mulberry-Leaf/wdbook/issues"
+  },
+  "homepage": "https://github.com/Mulberry-Leaf/wdbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
